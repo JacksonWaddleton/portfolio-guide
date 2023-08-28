@@ -1,4 +1,4 @@
 # Welcome to my portfolio
 
-#SQL
+# SQL
 - [2023 NBA Players Statistics Case Study](link)
